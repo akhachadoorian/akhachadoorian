@@ -9,7 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/SQL-dedede)
 ![Static Badge](https://img.shields.io/badge/NoSQL-dedede)
 ![Static Badge](https://img.shields.io/badge/Python-dedede)
-![Static Badge](https://img.shields.io/badge/Ruby-on-Rails-dedede)
+![Static Badge](https://img.shields.io/badge/Ruby_on_Rails-dedede)
 
 ### Tools
 ### Frameworks & Libraries
