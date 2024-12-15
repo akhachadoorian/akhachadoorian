@@ -2,6 +2,8 @@
 
 ## Skills
 ### Languages
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 HTML
 CSS
 JavaScript
